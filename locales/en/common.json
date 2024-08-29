@@ -1,0 +1,86 @@
+{
+  "user": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "role": {
+      "instructor": "Instructor",
+      "admin": "Administrator"
+    }
+  },
+  "student": {
+    "skillLevel": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "notFound": "Student not found",
+      "details": "Student Details",
+      "email": "Email",
+      "list": "Student List",
+      "add": "Add New Student",
+    "firstName": "First Name",
+    "lastName": "Last Name",    
+    "dateOfBirth": "Date of Birth"
+  }
+  
+  },
+  "error": {
+  "internalServer": "An internal server error occurred",
+  "fetchStudents": "Error fetching students. Please try again later.",
+  "addStudent": "Error adding student. Please try again.",
+  "fetchDashboard": "Error loading dashboard. Please try again."
+  },
+  "attendance": {
+    "present": "Present",
+    "absent": "Absent",
+    "late": "Late",
+    "track": "Track Attendance"
+  },
+  "skillAssessment": {
+    "create": "Create Skill Assessment",
+    "update": "Update Skill Assessment",
+    "list": "Skill Assessments",
+    "skills": {
+      "balance": "Balance",
+      "turning": "Turning",
+      "speed": "Speed",
+      "technique": "Technique"
+    },
+    "level": {
+      "1": "Beginner",
+      "2": "Intermediate",
+      "3": "Advanced"
+    },
+    "notes": "Notes"
+  },
+  "dashboard": {
+    "title": "Instructor Dashboard",
+    "stats": "Quick Stats",
+    "totalStudents": "Total Students",
+    "upcomingClasses": "Upcoming Classes",
+    "averageAttendance": "Average Attendance",
+    "recentStudents": "Recent Students",
+    "viewAllStudents": "View All Students",
+    "quickActions": "Quick Actions"
+  },
+  "class": {
+    "schedule": "Schedule Class"
+  },
+  "common": {
+    "create": "Create",
+    "update": "Update",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "add": "Add"
+  },
+  "nav": {
+    "home": "Home",
+    "students": "Students",
+    "dashboard": "Dashboard"
+  },
+  "pages": {
+    "home": "Welcome to Ski Instructor App",
+    "studentList": "Student List"
+  }
+}

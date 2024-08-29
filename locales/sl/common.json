@@ -1,0 +1,24 @@
+{
+    "user": {
+      "firstName": "Ime",
+      "lastName": "Priimek",
+      "email": "E-pošta",
+      "password": "Geslo",
+      "role": {
+        "instructor": "Inštruktor",
+        "admin": "Administrator"
+      }
+    },
+    "student": {
+      "skillLevel": {
+        "beginner": "Začetnik",
+        "intermediate": "Srednjenezahteven",
+        "advanced": "Napreden"
+      }
+    },
+    "attendance": {
+      "present": "Prisoten",
+      "absent": "Odsoten",
+      "late": "Zamuja"
+    }
+  }

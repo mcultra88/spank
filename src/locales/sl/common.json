@@ -1,0 +1,84 @@
+{
+  "user": {
+    "firstName": "Ime",
+    "lastName": "Priimek",
+    "email": "E-pošta",
+    "password": "Geslo",
+    "role": {
+      "instructor": "Inštruktor",
+      "admin": "Administrator"
+    }
+  },
+  "student": {
+    "skillLevel": {
+      "beginner": "Začetnik",
+      "intermediate": "Srednjenezahteven",
+      "advanced": "Napreden",
+      "details": "Podrobnosti študenta",
+      "email": "E-pošta",
+      "list": "Seznam študentov",
+      "add": "Add New Student",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "dateOfBirth": "Date of Birth"
+    }
+  },
+  "error": {
+  "internalServer": "An internal server error occurred",
+  "fetchStudents": "Napaka pri pridobivanju seznama študentov. Prosimo, poskusite kasneje.",
+  "addStudent": "Error adding student. Please try again.",
+  "fetchDashboard": "Napaka pri nalaganju nadzorne plošče. Prosimo, poskusite znova."
+},
+  "attendance": {
+    "present": "Prisoten",
+    "absent": "Odsoten",
+    "late": "Zamuja",
+    "track": "Sledi prisotnosti"
+  },
+  "class": {
+    "schedule": "Načrtuj tečaj"
+  },
+  "skillAssessment": {
+    "create": "Ustvari oceno spretnosti",
+    "update": "Posodobi oceno spretnosti",
+    "list": "Ocene spretnosti",
+    "skills": {
+      "balance": "Ravnotežje",
+      "turning": "Zavijanje",
+      "speed": "Hitrost",
+      "technique": "Tehnika"
+    },
+    "level": {
+      "1": "Začetnik",
+      "2": "Srednjenezahteven",
+      "3": "Napreden"
+    },
+    "notes": "Opombe"
+  },
+  "common": {
+    "create": "Ustvari",
+    "update": "Posodobi",
+    "edit": "Uredi",
+    "loading": "Nalaganje...",
+    "add": "Add"
+  },
+  "dashboard": {
+    "title": "Nadzorna plošča inštruktorja",
+    "stats": "Hitre statistike",
+    "totalStudents": "Skupno število študentov",
+    "upcomingClasses": "Prihajajoči tečaji",
+    "averageAttendance": "Povprečna udeležba",
+    "recentStudents": "Nedavni študenti",
+    "viewAllStudents": "Poglej vse študente",
+    "quickActions": "Hitre akcije"
+  },
+  "nav": {
+    "home": "Domov",
+    "students": "Študenti",
+    "dashboard": "Nadzorna plošča"
+  },
+  "pages": {
+    "home": "Dobrodošli v aplikaciji za smučarske inštruktorje",
+    "studentList": "Seznam študentov"
+  }
+}
